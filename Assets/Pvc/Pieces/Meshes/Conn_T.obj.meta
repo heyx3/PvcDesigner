@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 312a7ca210d56f6409c92d345d9be2c9
+guid: d2126de5e086f0f49bfe2fb364f6e10d
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -13,7 +13,7 @@ ModelImporter:
     4300000: default
   externalObjects: {}
   materials:
-    importMaterials: 0
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -66,14 +66,14 @@ ModelImporter:
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
-    normalSmoothAngle: 74
+    normalSmoothAngle: 26
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 3
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 0
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2

@@ -51,6 +51,7 @@ namespace PVC
         {
             string name = $"Island {nextIslandID++}";
             Transform newIsland = new GameObject(name).transform;
+            newIsland.SetParent(transform.parent, false);
 
             islandPieces.Add(newIsland, new HashSet<Piece>() { });
 
